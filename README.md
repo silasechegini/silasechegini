@@ -1,5 +1,5 @@
 
-## 👋 Hey there, I'm Ngozi or Ng (Pronounced as Engee .. haha)!
+## 👋 Hey there, I'm Ngozi or Ng (Pronounced as Engee 😉!
 
 > 💻 Full-Stack Developer | ⚙️ Code Craftsman | 🎉 Fun-Loving Debugger | 🧠 10+ Years in the Game
 
