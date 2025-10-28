@@ -32,7 +32,7 @@
 - 🧠 Write code *and* teach code – mentoring devs is my jam
 - 🕹️ Currently building side projects I may or may not finish
 - 📚 Constantly learning, unlearning, and relearning
-- 💬 Fluent in JavaScript and sarcasm
+- 💬 Fluent in JavaScript, C#, and sarcasm
 
 ---
 
@@ -58,5 +58,5 @@
 
 ---
 
-⚡ Check out my QUICK-UI repo and others. Don't forget to ⭐ your favorites!
+⚡ My active projects are QUICK-UI and UDSL-Monorepo, among others. Don't forget to ⭐ your favorites!
 
