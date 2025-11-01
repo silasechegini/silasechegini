@@ -24,7 +24,10 @@
 - 🐳 Docker, Azure, AWS – Cloudy with a chance of deployment
 - 🧹 ESLint, Prettier – Code so clean you could eat off it
 
----
+**DevOps Land:**
+- Azure DevOps, GitHub – Managing repositories, enforcing quality gates, and optimizing collaborative development workflows.
+- Jenkins, Azure Pipelines – Designing robust CI/CD pipelines for automated builds, testing, and seamless delivery to staging and production.
+
 
 ### ⚡ Fun Facts 
 
